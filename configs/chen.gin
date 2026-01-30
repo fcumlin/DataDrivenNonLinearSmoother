@@ -1,0 +1,43 @@
+# Config for DNS with Chen data, 2026-01-30.
+
+
+# Observation noise SMNR level of the signal.
+SMNR_DB = 10
+
+
+# ------------------------------
+# Architecture
+# ------------------------------
+DatadrivenNonlinearSmoother:
+    input_dim = 3
+    hidden_dim = 30
+    output_dim = 3
+    num_layers = 1
+    hidden_dim_dense = 32
+
+
+# ------------------------------
+# Dataset
+# ------------------------------
+ChenAttractor:
+    num_samples = 1000
+    signal_length = 100
+    smnr_db = %SMNR_DB
+
+get_dataloader:
+    num_workers = 1
+    shuffle = True
+
+
+# ------------------------------
+# Training loop
+# ------------------------------
+TrainingLoop:
+    danse_state_posterior_model = @DatadrivenNonlinearSmoother
+    dataset_cls = @ChenAttractor
+    num_epochs = 200
+    learning_rate = 1e-3
+    batch_size = 64
+    device = 'cuda'
+    weight_decay = 0
+    valid_signal_length = 2000
