@@ -1,0 +1,1072 @@
+INFO:root:Device: cuda
+INFO:root:Epoch=1, Average loss train=47.3972, 
+INFO:root:Epoch 1: Validating...
+INFO:root:[Valid] NMSE = -1.241 dB
+INFO:root:[Valid] Log likelihood = -228.788
+INFO:root:[Valid] Avg loss=22.2287
+INFO:root:New best loss: 44.4456, saving model...
+INFO:root:Epoch=2, Average loss train=39.3767, 
+INFO:root:Epoch 2: Validating...
+INFO:root:[Valid] NMSE = -3.823 dB
+INFO:root:[Valid] Log likelihood = -99.919
+INFO:root:[Valid] Avg loss=15.3639
+INFO:root:New best loss: 30.7100, saving model...
+INFO:root:Epoch=3, Average loss train=28.3231, 
+INFO:root:Epoch 3: Validating...
+INFO:root:[Valid] NMSE = -7.938 dB
+INFO:root:[Valid] Log likelihood = -22.632
+INFO:root:[Valid] Avg loss=10.3266
+INFO:root:New best loss: 20.6502, saving model...
+INFO:root:Epoch=4, Average loss train=22.0867, 
+INFO:root:Epoch 4: Validating...
+INFO:root:[Valid] NMSE = -9.329 dB
+INFO:root:[Valid] Log likelihood = -14.265
+INFO:root:[Valid] Avg loss=9.5681
+INFO:root:New best loss: 19.1002, saving model...
+INFO:root:Epoch=5, Average loss train=19.9081, 
+INFO:root:Epoch 5: Validating...
+INFO:root:[Valid] NMSE = -10.675 dB
+INFO:root:[Valid] Log likelihood = -10.695
+INFO:root:[Valid] Avg loss=8.8853
+INFO:root:New best loss: 17.7656, saving model...
+INFO:root:Epoch=6, Average loss train=18.8787, 
+INFO:root:Epoch 6: Validating...
+INFO:root:[Valid] NMSE = -11.578 dB
+INFO:root:[Valid] Log likelihood = -9.400
+INFO:root:[Valid] Avg loss=8.4952
+INFO:root:New best loss: 17.0023, saving model...
+INFO:root:Epoch=7, Average loss train=18.1102, 
+INFO:root:Epoch 7: Validating...
+INFO:root:[Valid] NMSE = -12.357 dB
+INFO:root:[Valid] Log likelihood = -8.625
+INFO:root:[Valid] Avg loss=8.1771
+INFO:root:New best loss: 16.3654, saving model...
+INFO:root:Epoch=8, Average loss train=17.4806, 
+INFO:root:Epoch 8: Validating...
+INFO:root:[Valid] NMSE = -12.943 dB
+INFO:root:[Valid] Log likelihood = -8.258
+INFO:root:[Valid] Avg loss=7.9138
+INFO:root:New best loss: 15.8366, saving model...
+INFO:root:Epoch=9, Average loss train=16.8708, 
+INFO:root:Epoch 9: Validating...
+INFO:root:[Valid] NMSE = -13.443 dB
+INFO:root:[Valid] Log likelihood = -8.029
+INFO:root:[Valid] Avg loss=7.6747
+INFO:root:New best loss: 15.3453, saving model...
+INFO:root:Epoch=10, Average loss train=16.1953, 
+INFO:root:Epoch 10: Validating...
+INFO:root:[Valid] NMSE = -14.059 dB
+INFO:root:[Valid] Log likelihood = -7.823
+INFO:root:[Valid] Avg loss=7.3598
+INFO:root:New best loss: 14.7165, saving model...
+INFO:root:Epoch=11, Average loss train=15.4538, 
+INFO:root:Epoch 11: Validating...
+INFO:root:[Valid] NMSE = -14.584 dB
+INFO:root:[Valid] Log likelihood = -7.695
+INFO:root:[Valid] Avg loss=7.0970
+INFO:root:New best loss: 14.2001, saving model...
+INFO:root:Epoch=12, Average loss train=14.9069, 
+INFO:root:Epoch 12: Validating...
+INFO:root:[Valid] NMSE = -14.756 dB
+INFO:root:[Valid] Log likelihood = -7.680
+INFO:root:[Valid] Avg loss=7.0229
+INFO:root:New best loss: 14.0435, saving model...
+INFO:root:Epoch=13, Average loss train=14.6241, 
+INFO:root:Epoch 13: Validating...
+INFO:root:[Valid] NMSE = -14.993 dB
+INFO:root:[Valid] Log likelihood = -7.625
+INFO:root:[Valid] Avg loss=6.9311
+INFO:root:New best loss: 13.8736, saving model...
+INFO:root:Epoch=14, Average loss train=14.4271, 
+INFO:root:Epoch 14: Validating...
+INFO:root:[Valid] NMSE = -15.225 dB
+INFO:root:[Valid] Log likelihood = -7.519
+INFO:root:[Valid] Avg loss=6.8749
+INFO:root:New best loss: 13.7490, saving model...
+INFO:root:Epoch=15, Average loss train=14.2869, 
+INFO:root:Epoch 15: Validating...
+INFO:root:[Valid] NMSE = -15.483 dB
+INFO:root:[Valid] Log likelihood = -7.422
+INFO:root:[Valid] Avg loss=6.8127
+INFO:root:New best loss: 13.6228, saving model...
+INFO:root:Epoch=16, Average loss train=14.1547, 
+INFO:root:Epoch 16: Validating...
+INFO:root:[Valid] NMSE = -15.714 dB
+INFO:root:[Valid] Log likelihood = -7.339
+INFO:root:[Valid] Avg loss=6.7612
+INFO:root:New best loss: 13.5214, saving model...
+INFO:root:Epoch=17, Average loss train=14.0417, 
+INFO:root:Epoch 17: Validating...
+INFO:root:[Valid] NMSE = -15.929 dB
+INFO:root:[Valid] Log likelihood = -7.262
+INFO:root:[Valid] Avg loss=6.7221
+INFO:root:New best loss: 13.4398, saving model...
+INFO:root:Epoch=18, Average loss train=13.9326, 
+INFO:root:Epoch 18: Validating...
+INFO:root:[Valid] NMSE = -16.114 dB
+INFO:root:[Valid] Log likelihood = -7.196
+INFO:root:[Valid] Avg loss=6.6833
+INFO:root:New best loss: 13.3757, saving model...
+INFO:root:Epoch=19, Average loss train=13.8457, 
+INFO:root:Epoch 19: Validating...
+INFO:root:[Valid] NMSE = -16.341 dB
+INFO:root:[Valid] Log likelihood = -7.107
+INFO:root:[Valid] Avg loss=6.6562
+INFO:root:New best loss: 13.3074, saving model...
+INFO:root:Epoch=20, Average loss train=13.7749, 
+INFO:root:Epoch 20: Validating...
+INFO:root:[Valid] NMSE = -16.543 dB
+INFO:root:[Valid] Log likelihood = -7.030
+INFO:root:[Valid] Avg loss=6.6236
+INFO:root:New best loss: 13.2462, saving model...
+INFO:root:Epoch=21, Average loss train=13.7085, 
+INFO:root:Epoch 21: Validating...
+INFO:root:[Valid] NMSE = -16.706 dB
+INFO:root:[Valid] Log likelihood = -6.975
+INFO:root:[Valid] Avg loss=6.6034
+INFO:root:New best loss: 13.2071, saving model...
+INFO:root:Epoch=22, Average loss train=13.6470, 
+INFO:root:Epoch 22: Validating...
+INFO:root:[Valid] NMSE = -16.893 dB
+INFO:root:[Valid] Log likelihood = -6.910
+INFO:root:[Valid] Avg loss=6.5758
+INFO:root:New best loss: 13.1541, saving model...
+INFO:root:Epoch=23, Average loss train=13.5853, 
+INFO:root:Epoch 23: Validating...
+INFO:root:[Valid] NMSE = -17.106 dB
+INFO:root:[Valid] Log likelihood = -6.844
+INFO:root:[Valid] Avg loss=6.5423
+INFO:root:New best loss: 13.0940, saving model...
+INFO:root:Epoch=24, Average loss train=13.5124, 
+INFO:root:Epoch 24: Validating...
+INFO:root:[Valid] NMSE = -17.320 dB
+INFO:root:[Valid] Log likelihood = -6.776
+INFO:root:[Valid] Avg loss=6.5154
+INFO:root:New best loss: 13.0398, saving model...
+INFO:root:Epoch=25, Average loss train=13.4470, 
+INFO:root:Epoch 25: Validating...
+INFO:root:[Valid] NMSE = -17.531 dB
+INFO:root:[Valid] Log likelihood = -6.709
+INFO:root:[Valid] Avg loss=6.5002
+INFO:root:New best loss: 12.9967, saving model...
+INFO:root:Epoch=26, Average loss train=13.3824, 
+INFO:root:Epoch 26: Validating...
+INFO:root:[Valid] NMSE = -17.796 dB
+INFO:root:[Valid] Log likelihood = -6.634
+INFO:root:[Valid] Avg loss=6.4597
+INFO:root:New best loss: 12.9328, saving model...
+INFO:root:Epoch=27, Average loss train=13.3185, 
+INFO:root:Epoch 27: Validating...
+INFO:root:[Valid] NMSE = -18.085 dB
+INFO:root:[Valid] Log likelihood = -6.547
+INFO:root:[Valid] Avg loss=6.4372
+INFO:root:New best loss: 12.8791, saving model...
+INFO:root:Epoch=28, Average loss train=13.2559, 
+INFO:root:Epoch 28: Validating...
+INFO:root:[Valid] NMSE = -18.461 dB
+INFO:root:[Valid] Log likelihood = -6.447
+INFO:root:[Valid] Avg loss=6.4110
+INFO:root:New best loss: 12.8166, saving model...
+INFO:root:Epoch=29, Average loss train=13.2014, 
+INFO:root:Epoch 29: Validating...
+INFO:root:[Valid] NMSE = -18.822 dB
+INFO:root:[Valid] Log likelihood = -6.348
+INFO:root:[Valid] Avg loss=6.3799
+INFO:root:New best loss: 12.7600, saving model...
+INFO:root:Epoch=30, Average loss train=13.1540, 
+INFO:root:Epoch 30: Validating...
+INFO:root:[Valid] NMSE = -19.248 dB
+INFO:root:[Valid] Log likelihood = -6.228
+INFO:root:[Valid] Avg loss=6.3521
+INFO:root:New best loss: 12.7065, saving model...
+INFO:root:Epoch=31, Average loss train=13.1033, 
+INFO:root:Epoch 31: Validating...
+INFO:root:[Valid] NMSE = -19.655 dB
+INFO:root:[Valid] Log likelihood = -6.115
+INFO:root:[Valid] Avg loss=6.3292
+INFO:root:New best loss: 12.6617, saving model...
+INFO:root:Epoch=32, Average loss train=13.0605, 
+INFO:root:Epoch 32: Validating...
+INFO:root:[Valid] NMSE = -20.006 dB
+INFO:root:[Valid] Log likelihood = -6.011
+INFO:root:[Valid] Avg loss=6.3230
+INFO:root:New best loss: 12.6366, saving model...
+INFO:root:Epoch=33, Average loss train=13.0328, 
+INFO:root:Epoch 33: Validating...
+INFO:root:[Valid] NMSE = -20.428 dB
+INFO:root:[Valid] Log likelihood = -5.873
+INFO:root:[Valid] Avg loss=6.3036
+INFO:root:New best loss: 12.5999, saving model...
+INFO:root:Epoch=34, Average loss train=13.0066, 
+INFO:root:Epoch 34: Validating...
+INFO:root:[Valid] NMSE = -20.745 dB
+INFO:root:[Valid] Log likelihood = -5.782
+INFO:root:[Valid] Avg loss=6.2924
+INFO:root:New best loss: 12.5777, saving model...
+INFO:root:Epoch=35, Average loss train=12.9833, 
+INFO:root:Epoch 35: Validating...
+INFO:root:[Valid] NMSE = -20.968 dB
+INFO:root:[Valid] Log likelihood = -5.706
+INFO:root:[Valid] Avg loss=6.2864
+INFO:root:New best loss: 12.5641, saving model...
+INFO:root:Epoch=36, Average loss train=12.9688, 
+INFO:root:Epoch 36: Validating...
+INFO:root:[Valid] NMSE = -20.923 dB
+INFO:root:[Valid] Log likelihood = -5.710
+INFO:root:[Valid] Avg loss=6.2915
+INFO:root:Epoch=37, Average loss train=12.9554, 
+INFO:root:Epoch 37: Validating...
+INFO:root:[Valid] NMSE = -21.418 dB
+INFO:root:[Valid] Log likelihood = -5.563
+INFO:root:[Valid] Avg loss=6.2623
+INFO:root:New best loss: 12.5330, saving model...
+INFO:root:Epoch=38, Average loss train=12.9415, 
+INFO:root:Epoch 38: Validating...
+INFO:root:[Valid] NMSE = -21.673 dB
+INFO:root:[Valid] Log likelihood = -5.470
+INFO:root:[Valid] Avg loss=6.2546
+INFO:root:New best loss: 12.5176, saving model...
+INFO:root:Epoch=39, Average loss train=12.9322, 
+INFO:root:Epoch 39: Validating...
+INFO:root:[Valid] NMSE = -21.649 dB
+INFO:root:[Valid] Log likelihood = -5.472
+INFO:root:[Valid] Avg loss=6.2467
+INFO:root:Epoch=40, Average loss train=12.9193, 
+INFO:root:Epoch 40: Validating...
+INFO:root:[Valid] NMSE = -21.944 dB
+INFO:root:[Valid] Log likelihood = -5.345
+INFO:root:[Valid] Avg loss=6.2434
+INFO:root:New best loss: 12.5022, saving model...
+INFO:root:Epoch=41, Average loss train=12.9113, 
+INFO:root:Epoch 41: Validating...
+INFO:root:[Valid] NMSE = -22.057 dB
+INFO:root:[Valid] Log likelihood = -5.323
+INFO:root:[Valid] Avg loss=6.2565
+INFO:root:Epoch=42, Average loss train=12.8947, 
+INFO:root:Epoch 42: Validating...
+INFO:root:[Valid] NMSE = -22.117 dB
+INFO:root:[Valid] Log likelihood = -5.309
+INFO:root:[Valid] Avg loss=6.2470
+INFO:root:New best loss: 12.4969, saving model...
+INFO:root:Epoch=43, Average loss train=12.8922, 
+INFO:root:Epoch 43: Validating...
+INFO:root:[Valid] NMSE = -22.170 dB
+INFO:root:[Valid] Log likelihood = -5.251
+INFO:root:[Valid] Avg loss=6.2456
+INFO:root:New best loss: 12.4946, saving model...
+INFO:root:Epoch=44, Average loss train=12.8907, 
+INFO:root:Epoch 44: Validating...
+INFO:root:[Valid] NMSE = -22.113 dB
+INFO:root:[Valid] Log likelihood = -5.296
+INFO:root:[Valid] Avg loss=6.2551
+INFO:root:Epoch=45, Average loss train=12.8798, 
+INFO:root:Epoch 45: Validating...
+INFO:root:[Valid] NMSE = -22.256 dB
+INFO:root:[Valid] Log likelihood = -5.267
+INFO:root:[Valid] Avg loss=6.2469
+INFO:root:New best loss: 12.4926, saving model...
+INFO:root:Epoch=46, Average loss train=12.8733, 
+INFO:root:Epoch 46: Validating...
+INFO:root:[Valid] NMSE = -22.092 dB
+INFO:root:[Valid] Log likelihood = -5.310
+INFO:root:[Valid] Avg loss=6.2591
+INFO:root:Epoch=47, Average loss train=12.8688, 
+INFO:root:Epoch 47: Validating...
+INFO:root:[Valid] NMSE = -22.551 dB
+INFO:root:[Valid] Log likelihood = -5.141
+INFO:root:[Valid] Avg loss=6.2376
+INFO:root:New best loss: 12.4761, saving model...
+INFO:root:Epoch=48, Average loss train=12.8588, 
+INFO:root:Epoch 48: Validating...
+INFO:root:[Valid] NMSE = -22.348 dB
+INFO:root:[Valid] Log likelihood = -5.219
+INFO:root:[Valid] Avg loss=6.2498
+INFO:root:Epoch=49, Average loss train=12.8540, 
+INFO:root:Epoch 49: Validating...
+INFO:root:[Valid] NMSE = -22.077 dB
+INFO:root:[Valid] Log likelihood = -5.301
+INFO:root:[Valid] Avg loss=6.2523
+INFO:root:Epoch=50, Average loss train=12.8487, 
+INFO:root:Epoch 50: Validating...
+INFO:root:[Valid] NMSE = -22.664 dB
+INFO:root:[Valid] Log likelihood = -5.082
+INFO:root:[Valid] Avg loss=6.2387
+INFO:root:New best loss: 12.4736, saving model...
+INFO:root:Epoch=51, Average loss train=12.8420, 
+INFO:root:Epoch 51: Validating...
+INFO:root:[Valid] NMSE = -22.430 dB
+INFO:root:[Valid] Log likelihood = -5.131
+INFO:root:[Valid] Avg loss=6.2248
+INFO:root:Epoch=52, Average loss train=12.8440, 
+INFO:root:Epoch 52: Validating...
+INFO:root:[Valid] NMSE = -22.706 dB
+INFO:root:[Valid] Log likelihood = -5.040
+INFO:root:[Valid] Avg loss=6.2411
+INFO:root:New best loss: 12.4727, saving model...
+INFO:root:Epoch=53, Average loss train=12.8427, 
+INFO:root:Epoch 53: Validating...
+INFO:root:[Valid] NMSE = -22.582 dB
+INFO:root:[Valid] Log likelihood = -5.098
+INFO:root:[Valid] Avg loss=6.2464
+INFO:root:Epoch=54, Average loss train=12.8323, 
+INFO:root:Epoch 54: Validating...
+INFO:root:[Valid] NMSE = -22.608 dB
+INFO:root:[Valid] Log likelihood = -5.095
+INFO:root:[Valid] Avg loss=6.2437
+INFO:root:Epoch=55, Average loss train=12.8282, 
+INFO:root:Epoch 55: Validating...
+INFO:root:[Valid] NMSE = -22.707 dB
+INFO:root:[Valid] Log likelihood = -5.026
+INFO:root:[Valid] Avg loss=6.2329
+INFO:root:New best loss: 12.4706, saving model...
+INFO:root:Epoch=56, Average loss train=12.8269, 
+INFO:root:Epoch 56: Validating...
+INFO:root:[Valid] NMSE = -22.851 dB
+INFO:root:[Valid] Log likelihood = -5.001
+INFO:root:[Valid] Avg loss=6.2303
+INFO:root:New best loss: 12.4633, saving model...
+INFO:root:Epoch=57, Average loss train=12.8203, 
+INFO:root:Epoch 57: Validating...
+INFO:root:[Valid] NMSE = -22.826 dB
+INFO:root:[Valid] Log likelihood = -4.988
+INFO:root:[Valid] Avg loss=6.2329
+INFO:root:Epoch=58, Average loss train=12.8181, 
+INFO:root:Epoch 58: Validating...
+INFO:root:[Valid] NMSE = -22.682 dB
+INFO:root:[Valid] Log likelihood = -5.070
+INFO:root:[Valid] Avg loss=6.2298
+INFO:root:Epoch=59, Average loss train=12.8215, 
+INFO:root:Epoch 59: Validating...
+INFO:root:[Valid] NMSE = -22.976 dB
+INFO:root:[Valid] Log likelihood = -4.932
+INFO:root:[Valid] Avg loss=6.2341
+INFO:root:New best loss: 12.4603, saving model...
+INFO:root:Epoch=60, Average loss train=12.8196, 
+INFO:root:Epoch 60: Validating...
+INFO:root:[Valid] NMSE = -23.007 dB
+INFO:root:[Valid] Log likelihood = -4.932
+INFO:root:[Valid] Avg loss=6.2146
+INFO:root:New best loss: 12.4504, saving model...
+INFO:root:Epoch=61, Average loss train=12.8080, 
+INFO:root:Epoch 61: Validating...
+INFO:root:[Valid] NMSE = -23.057 dB
+INFO:root:[Valid] Log likelihood = -4.896
+INFO:root:[Valid] Avg loss=6.2372
+INFO:root:Epoch=62, Average loss train=12.8026, 
+INFO:root:Epoch 62: Validating...
+INFO:root:[Valid] NMSE = -22.943 dB
+INFO:root:[Valid] Log likelihood = -4.959
+INFO:root:[Valid] Avg loss=6.2315
+INFO:root:Epoch=63, Average loss train=12.8038, 
+INFO:root:Epoch 63: Validating...
+INFO:root:[Valid] NMSE = -23.097 dB
+INFO:root:[Valid] Log likelihood = -4.873
+INFO:root:[Valid] Avg loss=6.2197
+INFO:root:New best loss: 12.4491, saving model...
+INFO:root:Epoch=64, Average loss train=12.8039, 
+INFO:root:Epoch 64: Validating...
+INFO:root:[Valid] NMSE = -22.998 dB
+INFO:root:[Valid] Log likelihood = -4.936
+INFO:root:[Valid] Avg loss=6.2269
+INFO:root:Epoch=65, Average loss train=12.7969, 
+INFO:root:Epoch 65: Validating...
+INFO:root:[Valid] NMSE = -22.779 dB
+INFO:root:[Valid] Log likelihood = -4.978
+INFO:root:[Valid] Avg loss=6.2345
+INFO:root:Epoch=66, Average loss train=12.7939, 
+INFO:root:Epoch 66: Validating...
+INFO:root:[Valid] NMSE = -23.099 dB
+INFO:root:[Valid] Log likelihood = -4.888
+INFO:root:[Valid] Avg loss=6.2155
+INFO:root:New best loss: 12.4480, saving model...
+INFO:root:Epoch=67, Average loss train=12.7936, 
+INFO:root:Epoch 67: Validating...
+INFO:root:[Valid] NMSE = -23.176 dB
+INFO:root:[Valid] Log likelihood = -4.856
+INFO:root:[Valid] Avg loss=6.2244
+INFO:root:Epoch=68, Average loss train=12.7885, 
+INFO:root:Epoch 68: Validating...
+INFO:root:[Valid] NMSE = -23.198 dB
+INFO:root:[Valid] Log likelihood = -4.849
+INFO:root:[Valid] Avg loss=6.2280
+INFO:root:Epoch=69, Average loss train=12.7886, 
+INFO:root:Epoch 69: Validating...
+INFO:root:[Valid] NMSE = -23.355 dB
+INFO:root:[Valid] Log likelihood = -4.790
+INFO:root:[Valid] Avg loss=6.2259
+INFO:root:New best loss: 12.4425, saving model...
+INFO:root:Epoch=70, Average loss train=12.7877, 
+INFO:root:Epoch 70: Validating...
+INFO:root:[Valid] NMSE = -23.261 dB
+INFO:root:[Valid] Log likelihood = -4.824
+INFO:root:[Valid] Avg loss=6.2231
+INFO:root:Epoch=71, Average loss train=12.7845, 
+INFO:root:Epoch 71: Validating...
+INFO:root:[Valid] NMSE = -22.986 dB
+INFO:root:[Valid] Log likelihood = -4.921
+INFO:root:[Valid] Avg loss=6.2199
+INFO:root:Epoch=72, Average loss train=12.7829, 
+INFO:root:Epoch 72: Validating...
+INFO:root:[Valid] NMSE = -23.412 dB
+INFO:root:[Valid] Log likelihood = -4.757
+INFO:root:[Valid] Avg loss=6.2130
+INFO:root:New best loss: 12.4346, saving model...
+INFO:root:Epoch=73, Average loss train=12.7823, 
+INFO:root:Epoch 73: Validating...
+INFO:root:[Valid] NMSE = -23.238 dB
+INFO:root:[Valid] Log likelihood = -4.786
+INFO:root:[Valid] Avg loss=6.2189
+INFO:root:Epoch=74, Average loss train=12.7773, 
+INFO:root:Epoch 74: Validating...
+INFO:root:[Valid] NMSE = -23.394 dB
+INFO:root:[Valid] Log likelihood = -4.759
+INFO:root:[Valid] Avg loss=6.2079
+INFO:root:New best loss: 12.4340, saving model...
+INFO:root:Epoch=75, Average loss train=12.7835, 
+INFO:root:Epoch 75: Validating...
+INFO:root:[Valid] NMSE = -23.166 dB
+INFO:root:[Valid] Log likelihood = -4.826
+INFO:root:[Valid] Avg loss=6.2317
+INFO:root:Epoch=76, Average loss train=12.7781, 
+INFO:root:Epoch 76: Validating...
+INFO:root:[Valid] NMSE = -23.276 dB
+INFO:root:[Valid] Log likelihood = -4.795
+INFO:root:[Valid] Avg loss=6.2209
+INFO:root:Epoch=77, Average loss train=12.7717, 
+INFO:root:Epoch 77: Validating...
+INFO:root:[Valid] NMSE = -23.276 dB
+INFO:root:[Valid] Log likelihood = -4.777
+INFO:root:[Valid] Avg loss=6.2191
+INFO:root:Epoch=78, Average loss train=12.7686, 
+INFO:root:Epoch 78: Validating...
+INFO:root:[Valid] NMSE = -23.015 dB
+INFO:root:[Valid] Log likelihood = -4.862
+INFO:root:[Valid] Avg loss=6.2313
+INFO:root:Epoch=79, Average loss train=12.7681, 
+INFO:root:Epoch 79: Validating...
+INFO:root:[Valid] NMSE = -23.515 dB
+INFO:root:[Valid] Log likelihood = -4.704
+INFO:root:[Valid] Avg loss=6.2132
+INFO:root:New best loss: 12.4324, saving model...
+INFO:root:Epoch=80, Average loss train=12.7691, 
+INFO:root:Epoch 80: Validating...
+INFO:root:[Valid] NMSE = -23.381 dB
+INFO:root:[Valid] Log likelihood = -4.736
+INFO:root:[Valid] Avg loss=6.2300
+INFO:root:Epoch=81, Average loss train=12.7683, 
+INFO:root:Epoch 81: Validating...
+INFO:root:[Valid] NMSE = -23.347 dB
+INFO:root:[Valid] Log likelihood = -4.741
+INFO:root:[Valid] Avg loss=6.2194
+INFO:root:Epoch=82, Average loss train=12.7587, 
+INFO:root:Epoch 82: Validating...
+INFO:root:[Valid] NMSE = -23.287 dB
+INFO:root:[Valid] Log likelihood = -4.775
+INFO:root:[Valid] Avg loss=6.2221
+INFO:root:Epoch=83, Average loss train=12.7613, 
+INFO:root:Epoch 83: Validating...
+INFO:root:[Valid] NMSE = -23.377 dB
+INFO:root:[Valid] Log likelihood = -4.726
+INFO:root:[Valid] Avg loss=6.2207
+INFO:root:Epoch=84, Average loss train=12.7659, 
+INFO:root:Epoch 84: Validating...
+INFO:root:[Valid] NMSE = -23.346 dB
+INFO:root:[Valid] Log likelihood = -4.719
+INFO:root:[Valid] Avg loss=6.2179
+INFO:root:Epoch=85, Average loss train=12.7570, 
+INFO:root:Epoch 85: Validating...
+INFO:root:[Valid] NMSE = -23.469 dB
+INFO:root:[Valid] Log likelihood = -4.693
+INFO:root:[Valid] Avg loss=6.2063
+INFO:root:New best loss: 12.4313, saving model...
+INFO:root:Epoch=86, Average loss train=12.7532, 
+INFO:root:Epoch 86: Validating...
+INFO:root:[Valid] NMSE = -23.618 dB
+INFO:root:[Valid] Log likelihood = -4.648
+INFO:root:[Valid] Avg loss=6.2158
+INFO:root:New best loss: 12.4304, saving model...
+INFO:root:Epoch=87, Average loss train=12.7586, 
+INFO:root:Epoch 87: Validating...
+INFO:root:[Valid] NMSE = -23.234 dB
+INFO:root:[Valid] Log likelihood = -4.741
+INFO:root:[Valid] Avg loss=6.2358
+INFO:root:Epoch=88, Average loss train=12.7528, 
+INFO:root:Epoch 88: Validating...
+INFO:root:[Valid] NMSE = -23.554 dB
+INFO:root:[Valid] Log likelihood = -4.661
+INFO:root:[Valid] Avg loss=6.2226
+INFO:root:Epoch=89, Average loss train=12.7549, 
+INFO:root:Epoch 89: Validating...
+INFO:root:[Valid] NMSE = -23.127 dB
+INFO:root:[Valid] Log likelihood = -4.772
+INFO:root:[Valid] Avg loss=6.2348
+INFO:root:Epoch=90, Average loss train=12.7532, 
+INFO:root:Epoch 90: Validating...
+INFO:root:[Valid] NMSE = -23.792 dB
+INFO:root:[Valid] Log likelihood = -4.594
+INFO:root:[Valid] Avg loss=6.2176
+INFO:root:New best loss: 12.4251, saving model...
+INFO:root:Epoch=91, Average loss train=12.7508, 
+INFO:root:Epoch 91: Validating...
+INFO:root:[Valid] NMSE = -23.587 dB
+INFO:root:[Valid] Log likelihood = -4.617
+INFO:root:[Valid] Avg loss=6.2227
+INFO:root:Epoch=92, Average loss train=12.7505, 
+INFO:root:Epoch 92: Validating...
+INFO:root:[Valid] NMSE = -23.764 dB
+INFO:root:[Valid] Log likelihood = -4.587
+INFO:root:[Valid] Avg loss=6.2168
+INFO:root:Epoch=93, Average loss train=12.7408, 
+INFO:root:Epoch 93: Validating...
+INFO:root:[Valid] NMSE = -23.718 dB
+INFO:root:[Valid] Log likelihood = -4.585
+INFO:root:[Valid] Avg loss=6.2001
+INFO:root:New best loss: 12.4205, saving model...
+INFO:root:Epoch=94, Average loss train=12.7506, 
+INFO:root:Epoch 94: Validating...
+INFO:root:[Valid] NMSE = -23.538 dB
+INFO:root:[Valid] Log likelihood = -4.632
+INFO:root:[Valid] Avg loss=6.2209
+INFO:root:Epoch=95, Average loss train=12.7455, 
+INFO:root:Epoch 95: Validating...
+INFO:root:[Valid] NMSE = -23.114 dB
+INFO:root:[Valid] Log likelihood = -4.748
+INFO:root:[Valid] Avg loss=6.2259
+INFO:root:Epoch=96, Average loss train=12.7414, 
+INFO:root:Epoch 96: Validating...
+INFO:root:[Valid] NMSE = -23.801 dB
+INFO:root:[Valid] Log likelihood = -4.565
+INFO:root:[Valid] Avg loss=6.2046
+INFO:root:New best loss: 12.4202, saving model...
+INFO:root:Epoch=97, Average loss train=12.7405, 
+INFO:root:Epoch 97: Validating...
+INFO:root:[Valid] NMSE = -23.754 dB
+INFO:root:[Valid] Log likelihood = -4.566
+INFO:root:[Valid] Avg loss=6.2066
+INFO:root:Epoch=98, Average loss train=12.7413, 
+INFO:root:Epoch 98: Validating...
+INFO:root:[Valid] NMSE = -23.810 dB
+INFO:root:[Valid] Log likelihood = -4.557
+INFO:root:[Valid] Avg loss=6.2070
+INFO:root:Epoch=99, Average loss train=12.7378, 
+INFO:root:Epoch 99: Validating...
+INFO:root:[Valid] NMSE = -23.410 dB
+INFO:root:[Valid] Log likelihood = -4.642
+INFO:root:[Valid] Avg loss=6.2087
+INFO:root:Epoch=100, Average loss train=12.7328, 
+INFO:root:Epoch 100: Validating...
+INFO:root:[Valid] NMSE = -23.669 dB
+INFO:root:[Valid] Log likelihood = -4.590
+INFO:root:[Valid] Avg loss=6.2162
+INFO:root:Epoch=101, Average loss train=12.7351, 
+INFO:root:Epoch 101: Validating...
+INFO:root:[Valid] NMSE = -23.680 dB
+INFO:root:[Valid] Log likelihood = -4.589
+INFO:root:[Valid] Avg loss=6.2167
+INFO:root:Epoch=102, Average loss train=12.7316, 
+INFO:root:Epoch 102: Validating...
+INFO:root:[Valid] NMSE = -23.777 dB
+INFO:root:[Valid] Log likelihood = -4.533
+INFO:root:[Valid] Avg loss=6.2182
+INFO:root:Epoch=103, Average loss train=12.7333, 
+INFO:root:Epoch 103: Validating...
+INFO:root:[Valid] NMSE = -23.846 dB
+INFO:root:[Valid] Log likelihood = -4.518
+INFO:root:[Valid] Avg loss=6.2053
+INFO:root:New best loss: 12.4190, saving model...
+INFO:root:Epoch=104, Average loss train=12.7335, 
+INFO:root:Epoch 104: Validating...
+INFO:root:[Valid] NMSE = -23.903 dB
+INFO:root:[Valid] Log likelihood = -4.502
+INFO:root:[Valid] Avg loss=6.2050
+INFO:root:New best loss: 12.4168, saving model...
+INFO:root:Epoch=105, Average loss train=12.7334, 
+INFO:root:Epoch 105: Validating...
+INFO:root:[Valid] NMSE = -23.535 dB
+INFO:root:[Valid] Log likelihood = -4.615
+INFO:root:[Valid] Avg loss=6.2126
+INFO:root:Epoch=106, Average loss train=12.7282, 
+INFO:root:Epoch 106: Validating...
+INFO:root:[Valid] NMSE = -24.027 dB
+INFO:root:[Valid] Log likelihood = -4.482
+INFO:root:[Valid] Avg loss=6.2124
+INFO:root:New best loss: 12.4161, saving model...
+INFO:root:Epoch=107, Average loss train=12.7277, 
+INFO:root:Epoch 107: Validating...
+INFO:root:[Valid] NMSE = -23.718 dB
+INFO:root:[Valid] Log likelihood = -4.536
+INFO:root:[Valid] Avg loss=6.2149
+INFO:root:Epoch=108, Average loss train=12.7267, 
+INFO:root:Epoch 108: Validating...
+INFO:root:[Valid] NMSE = -23.821 dB
+INFO:root:[Valid] Log likelihood = -4.513
+INFO:root:[Valid] Avg loss=6.2024
+INFO:root:Epoch=109, Average loss train=12.7260, 
+INFO:root:Epoch 109: Validating...
+INFO:root:[Valid] NMSE = -23.793 dB
+INFO:root:[Valid] Log likelihood = -4.516
+INFO:root:[Valid] Avg loss=6.2082
+INFO:root:Epoch=110, Average loss train=12.7253, 
+INFO:root:Epoch 110: Validating...
+INFO:root:[Valid] NMSE = -24.040 dB
+INFO:root:[Valid] Log likelihood = -4.463
+INFO:root:[Valid] Avg loss=6.2042
+INFO:root:New best loss: 12.4126, saving model...
+INFO:root:Epoch=111, Average loss train=12.7272, 
+INFO:root:Epoch 111: Validating...
+INFO:root:[Valid] NMSE = -23.638 dB
+INFO:root:[Valid] Log likelihood = -4.560
+INFO:root:[Valid] Avg loss=6.2116
+INFO:root:Epoch=112, Average loss train=12.7262, 
+INFO:root:Epoch 112: Validating...
+INFO:root:[Valid] NMSE = -24.022 dB
+INFO:root:[Valid] Log likelihood = -4.456
+INFO:root:[Valid] Avg loss=6.2088
+INFO:root:Epoch=113, Average loss train=12.7225, 
+INFO:root:Epoch 113: Validating...
+INFO:root:[Valid] NMSE = -23.794 dB
+INFO:root:[Valid] Log likelihood = -4.531
+INFO:root:[Valid] Avg loss=6.2118
+INFO:root:Epoch=114, Average loss train=12.7227, 
+INFO:root:Epoch 114: Validating...
+INFO:root:[Valid] NMSE = -23.815 dB
+INFO:root:[Valid] Log likelihood = -4.522
+INFO:root:[Valid] Avg loss=6.2136
+INFO:root:Epoch=115, Average loss train=12.7223, 
+INFO:root:Epoch 115: Validating...
+INFO:root:[Valid] NMSE = -24.144 dB
+INFO:root:[Valid] Log likelihood = -4.419
+INFO:root:[Valid] Avg loss=6.2000
+INFO:root:New best loss: 12.4076, saving model...
+INFO:root:Epoch=116, Average loss train=12.7188, 
+INFO:root:Epoch 116: Validating...
+INFO:root:[Valid] NMSE = -23.435 dB
+INFO:root:[Valid] Log likelihood = -4.599
+INFO:root:[Valid] Avg loss=6.2109
+INFO:root:Epoch=117, Average loss train=12.7232, 
+INFO:root:Epoch 117: Validating...
+INFO:root:[Valid] NMSE = -24.000 dB
+INFO:root:[Valid] Log likelihood = -4.459
+INFO:root:[Valid] Avg loss=6.2026
+INFO:root:Epoch=118, Average loss train=12.7215, 
+INFO:root:Epoch 118: Validating...
+INFO:root:[Valid] NMSE = -24.050 dB
+INFO:root:[Valid] Log likelihood = -4.441
+INFO:root:[Valid] Avg loss=6.2116
+INFO:root:Epoch=119, Average loss train=12.7178, 
+INFO:root:Epoch 119: Validating...
+INFO:root:[Valid] NMSE = -23.684 dB
+INFO:root:[Valid] Log likelihood = -4.540
+INFO:root:[Valid] Avg loss=6.2010
+INFO:root:Epoch=120, Average loss train=12.7201, 
+INFO:root:Epoch 120: Validating...
+INFO:root:[Valid] NMSE = -23.708 dB
+INFO:root:[Valid] Log likelihood = -4.514
+INFO:root:[Valid] Avg loss=6.2110
+INFO:root:Epoch=121, Average loss train=12.7175, 
+INFO:root:Epoch 121: Validating...
+INFO:root:[Valid] NMSE = -23.896 dB
+INFO:root:[Valid] Log likelihood = -4.474
+INFO:root:[Valid] Avg loss=6.2064
+INFO:root:Epoch=122, Average loss train=12.7180, 
+INFO:root:Epoch 122: Validating...
+INFO:root:[Valid] NMSE = -23.975 dB
+INFO:root:[Valid] Log likelihood = -4.480
+INFO:root:[Valid] Avg loss=6.2078
+INFO:root:Epoch=123, Average loss train=12.7190, 
+INFO:root:Epoch 123: Validating...
+INFO:root:[Valid] NMSE = -23.784 dB
+INFO:root:[Valid] Log likelihood = -4.527
+INFO:root:[Valid] Avg loss=6.2130
+INFO:root:Epoch=124, Average loss train=12.7177, 
+INFO:root:Epoch 124: Validating...
+INFO:root:[Valid] NMSE = -23.911 dB
+INFO:root:[Valid] Log likelihood = -4.441
+INFO:root:[Valid] Avg loss=6.2166
+INFO:root:Epoch=125, Average loss train=12.7116, 
+INFO:root:Epoch 125: Validating...
+INFO:root:[Valid] NMSE = -23.989 dB
+INFO:root:[Valid] Log likelihood = -4.436
+INFO:root:[Valid] Avg loss=6.2023
+INFO:root:Epoch=126, Average loss train=12.7154, 
+INFO:root:Epoch 126: Validating...
+INFO:root:[Valid] NMSE = -23.733 dB
+INFO:root:[Valid] Log likelihood = -4.508
+INFO:root:[Valid] Avg loss=6.2110
+INFO:root:Epoch=127, Average loss train=12.7123, 
+INFO:root:Epoch 127: Validating...
+INFO:root:[Valid] NMSE = -24.066 dB
+INFO:root:[Valid] Log likelihood = -4.440
+INFO:root:[Valid] Avg loss=6.2069
+INFO:root:Epoch=128, Average loss train=12.7098, 
+INFO:root:Epoch 128: Validating...
+INFO:root:[Valid] NMSE = -23.914 dB
+INFO:root:[Valid] Log likelihood = -4.475
+INFO:root:[Valid] Avg loss=6.2158
+INFO:root:Epoch=129, Average loss train=12.7142, 
+INFO:root:Epoch 129: Validating...
+INFO:root:[Valid] NMSE = -23.907 dB
+INFO:root:[Valid] Log likelihood = -4.450
+INFO:root:[Valid] Avg loss=6.2002
+INFO:root:Epoch=130, Average loss train=12.7065, 
+INFO:root:Epoch 130: Validating...
+INFO:root:[Valid] NMSE = -23.796 dB
+INFO:root:[Valid] Log likelihood = -4.480
+INFO:root:[Valid] Avg loss=6.2122
+INFO:root:Epoch=131, Average loss train=12.7113, 
+INFO:root:Epoch 131: Validating...
+INFO:root:[Valid] NMSE = -23.803 dB
+INFO:root:[Valid] Log likelihood = -4.486
+INFO:root:[Valid] Avg loss=6.2250
+INFO:root:Epoch=132, Average loss train=12.7063, 
+INFO:root:Epoch 132: Validating...
+INFO:root:[Valid] NMSE = -24.062 dB
+INFO:root:[Valid] Log likelihood = -4.443
+INFO:root:[Valid] Avg loss=6.2035
+INFO:root:Epoch=133, Average loss train=12.7061, 
+INFO:root:Epoch 133: Validating...
+INFO:root:[Valid] NMSE = -23.935 dB
+INFO:root:[Valid] Log likelihood = -4.439
+INFO:root:[Valid] Avg loss=6.1919
+INFO:root:Epoch=134, Average loss train=12.7068, 
+INFO:root:Epoch 134: Validating...
+INFO:root:[Valid] NMSE = -23.898 dB
+INFO:root:[Valid] Log likelihood = -4.451
+INFO:root:[Valid] Avg loss=6.2055
+INFO:root:Epoch=135, Average loss train=12.7057, 
+INFO:root:Epoch 135: Validating...
+INFO:root:[Valid] NMSE = -23.902 dB
+INFO:root:[Valid] Log likelihood = -4.433
+INFO:root:[Valid] Avg loss=6.2139
+INFO:root:Epoch=136, Average loss train=12.7069, 
+INFO:root:Epoch 136: Validating...
+INFO:root:[Valid] NMSE = -23.768 dB
+INFO:root:[Valid] Log likelihood = -4.479
+INFO:root:[Valid] Avg loss=6.2140
+INFO:root:Epoch=137, Average loss train=12.7049, 
+INFO:root:Epoch 137: Validating...
+INFO:root:[Valid] NMSE = -23.863 dB
+INFO:root:[Valid] Log likelihood = -4.449
+INFO:root:[Valid] Avg loss=6.2226
+INFO:root:Epoch=138, Average loss train=12.7053, 
+INFO:root:Epoch 138: Validating...
+INFO:root:[Valid] NMSE = -23.944 dB
+INFO:root:[Valid] Log likelihood = -4.430
+INFO:root:[Valid] Avg loss=6.2042
+INFO:root:Epoch=139, Average loss train=12.6992, 
+INFO:root:Epoch 139: Validating...
+INFO:root:[Valid] NMSE = -24.117 dB
+INFO:root:[Valid] Log likelihood = -4.371
+INFO:root:[Valid] Avg loss=6.2004
+INFO:root:Epoch=140, Average loss train=12.7014, 
+INFO:root:Epoch 140: Validating...
+INFO:root:[Valid] NMSE = -24.291 dB
+INFO:root:[Valid] Log likelihood = -4.341
+INFO:root:[Valid] Avg loss=6.1997
+INFO:root:New best loss: 12.4031, saving model...
+INFO:root:Epoch=141, Average loss train=12.6991, 
+INFO:root:Epoch 141: Validating...
+INFO:root:[Valid] NMSE = -24.066 dB
+INFO:root:[Valid] Log likelihood = -4.380
+INFO:root:[Valid] Avg loss=6.2077
+INFO:root:Epoch=142, Average loss train=12.6946, 
+INFO:root:Epoch 142: Validating...
+INFO:root:[Valid] NMSE = -24.146 dB
+INFO:root:[Valid] Log likelihood = -4.352
+INFO:root:[Valid] Avg loss=6.2054
+INFO:root:Epoch=143, Average loss train=12.7009, 
+INFO:root:Epoch 143: Validating...
+INFO:root:[Valid] NMSE = -24.133 dB
+INFO:root:[Valid] Log likelihood = -4.360
+INFO:root:[Valid] Avg loss=6.2051
+INFO:root:Epoch=144, Average loss train=12.6983, 
+INFO:root:Epoch 144: Validating...
+INFO:root:[Valid] NMSE = -23.892 dB
+INFO:root:[Valid] Log likelihood = -4.413
+INFO:root:[Valid] Avg loss=6.2164
+INFO:root:Epoch=145, Average loss train=12.6980, 
+INFO:root:Epoch 145: Validating...
+INFO:root:[Valid] NMSE = -24.043 dB
+INFO:root:[Valid] Log likelihood = -4.354
+INFO:root:[Valid] Avg loss=6.1962
+INFO:root:Epoch=146, Average loss train=12.6972, 
+INFO:root:Epoch 146: Validating...
+INFO:root:[Valid] NMSE = -23.564 dB
+INFO:root:[Valid] Log likelihood = -4.527
+INFO:root:[Valid] Avg loss=6.2055
+INFO:root:Epoch=147, Average loss train=12.7000, 
+INFO:root:Epoch 147: Validating...
+INFO:root:[Valid] NMSE = -24.342 dB
+INFO:root:[Valid] Log likelihood = -4.307
+INFO:root:[Valid] Avg loss=6.1953
+INFO:root:New best loss: 12.3997, saving model...
+INFO:root:Epoch=148, Average loss train=12.6979, 
+INFO:root:Epoch 148: Validating...
+INFO:root:[Valid] NMSE = -23.925 dB
+INFO:root:[Valid] Log likelihood = -4.413
+INFO:root:[Valid] Avg loss=6.2081
+INFO:root:Epoch=149, Average loss train=12.6938, 
+INFO:root:Epoch 149: Validating...
+INFO:root:[Valid] NMSE = -23.885 dB
+INFO:root:[Valid] Log likelihood = -4.419
+INFO:root:[Valid] Avg loss=6.2082
+INFO:root:Epoch=150, Average loss train=12.6903, 
+INFO:root:Epoch 150: Validating...
+INFO:root:[Valid] NMSE = -23.899 dB
+INFO:root:[Valid] Log likelihood = -4.428
+INFO:root:[Valid] Avg loss=6.2151
+INFO:root:Epoch=151, Average loss train=12.6938, 
+INFO:root:Epoch 151: Validating...
+INFO:root:[Valid] NMSE = -24.264 dB
+INFO:root:[Valid] Log likelihood = -4.306
+INFO:root:[Valid] Avg loss=6.1947
+INFO:root:Epoch=152, Average loss train=12.6978, 
+INFO:root:Epoch 152: Validating...
+INFO:root:[Valid] NMSE = -24.008 dB
+INFO:root:[Valid] Log likelihood = -4.390
+INFO:root:[Valid] Avg loss=6.1943
+INFO:root:Epoch=153, Average loss train=12.6938, 
+INFO:root:Epoch 153: Validating...
+INFO:root:[Valid] NMSE = -23.885 dB
+INFO:root:[Valid] Log likelihood = -4.412
+INFO:root:[Valid] Avg loss=6.2037
+INFO:root:Epoch=154, Average loss train=12.6903, 
+INFO:root:Epoch 154: Validating...
+INFO:root:[Valid] NMSE = -24.211 dB
+INFO:root:[Valid] Log likelihood = -4.321
+INFO:root:[Valid] Avg loss=6.1960
+INFO:root:Epoch=155, Average loss train=12.6890, 
+INFO:root:Epoch 155: Validating...
+INFO:root:[Valid] NMSE = -24.242 dB
+INFO:root:[Valid] Log likelihood = -4.324
+INFO:root:[Valid] Avg loss=6.1917
+INFO:root:Epoch=156, Average loss train=12.6952, 
+INFO:root:Epoch 156: Validating...
+INFO:root:[Valid] NMSE = -24.083 dB
+INFO:root:[Valid] Log likelihood = -4.347
+INFO:root:[Valid] Avg loss=6.1998
+INFO:root:Epoch=157, Average loss train=12.6898, 
+INFO:root:Epoch 157: Validating...
+INFO:root:[Valid] NMSE = -24.140 dB
+INFO:root:[Valid] Log likelihood = -4.348
+INFO:root:[Valid] Avg loss=6.2044
+INFO:root:Epoch=158, Average loss train=12.6869, 
+INFO:root:Epoch 158: Validating...
+INFO:root:[Valid] NMSE = -23.760 dB
+INFO:root:[Valid] Log likelihood = -4.449
+INFO:root:[Valid] Avg loss=6.2201
+INFO:root:Epoch=159, Average loss train=12.6843, 
+INFO:root:Epoch 159: Validating...
+INFO:root:[Valid] NMSE = -24.224 dB
+INFO:root:[Valid] Log likelihood = -4.322
+INFO:root:[Valid] Avg loss=6.2091
+INFO:root:Epoch=160, Average loss train=12.6869, 
+INFO:root:Epoch 160: Validating...
+INFO:root:[Valid] NMSE = -24.078 dB
+INFO:root:[Valid] Log likelihood = -4.370
+INFO:root:[Valid] Avg loss=6.2070
+INFO:root:Epoch=161, Average loss train=12.6858, 
+INFO:root:Epoch 161: Validating...
+INFO:root:[Valid] NMSE = -24.144 dB
+INFO:root:[Valid] Log likelihood = -4.323
+INFO:root:[Valid] Avg loss=6.2084
+INFO:root:Epoch=162, Average loss train=12.6838, 
+INFO:root:Epoch 162: Validating...
+INFO:root:[Valid] NMSE = -23.830 dB
+INFO:root:[Valid] Log likelihood = -4.424
+INFO:root:[Valid] Avg loss=6.2247
+INFO:root:Epoch=163, Average loss train=12.6910, 
+INFO:root:Epoch 163: Validating...
+INFO:root:[Valid] NMSE = -24.322 dB
+INFO:root:[Valid] Log likelihood = -4.291
+INFO:root:[Valid] Avg loss=6.2133
+INFO:root:Epoch=164, Average loss train=12.6857, 
+INFO:root:Epoch 164: Validating...
+INFO:root:[Valid] NMSE = -24.115 dB
+INFO:root:[Valid] Log likelihood = -4.338
+INFO:root:[Valid] Avg loss=6.2141
+INFO:root:Epoch=165, Average loss train=12.6846, 
+INFO:root:Epoch 165: Validating...
+INFO:root:[Valid] NMSE = -23.837 dB
+INFO:root:[Valid] Log likelihood = -4.432
+INFO:root:[Valid] Avg loss=6.2074
+INFO:root:Epoch=166, Average loss train=12.6839, 
+INFO:root:Epoch 166: Validating...
+INFO:root:[Valid] NMSE = -23.733 dB
+INFO:root:[Valid] Log likelihood = -4.434
+INFO:root:[Valid] Avg loss=6.2219
+INFO:root:Epoch=167, Average loss train=12.6816, 
+INFO:root:Epoch 167: Validating...
+INFO:root:[Valid] NMSE = -24.011 dB
+INFO:root:[Valid] Log likelihood = -4.365
+INFO:root:[Valid] Avg loss=6.2101
+INFO:root:Epoch=168, Average loss train=12.6820, 
+INFO:root:Epoch 168: Validating...
+INFO:root:[Valid] NMSE = -24.316 dB
+INFO:root:[Valid] Log likelihood = -4.300
+INFO:root:[Valid] Avg loss=6.1983
+INFO:root:Epoch=169, Average loss train=12.6865, 
+INFO:root:Epoch 169: Validating...
+INFO:root:[Valid] NMSE = -24.058 dB
+INFO:root:[Valid] Log likelihood = -4.339
+INFO:root:[Valid] Avg loss=6.2099
+INFO:root:Epoch=170, Average loss train=12.6872, 
+INFO:root:Epoch 170: Validating...
+INFO:root:[Valid] NMSE = -24.113 dB
+INFO:root:[Valid] Log likelihood = -4.344
+INFO:root:[Valid] Avg loss=6.1956
+INFO:root:Epoch=171, Average loss train=12.6847, 
+INFO:root:Epoch 171: Validating...
+INFO:root:[Valid] NMSE = -24.216 dB
+INFO:root:[Valid] Log likelihood = -4.312
+INFO:root:[Valid] Avg loss=6.2059
+INFO:root:Epoch=172, Average loss train=12.6838, 
+INFO:root:Epoch 172: Validating...
+INFO:root:[Valid] NMSE = -24.064 dB
+INFO:root:[Valid] Log likelihood = -4.343
+INFO:root:[Valid] Avg loss=6.2007
+INFO:root:Epoch=173, Average loss train=12.6866, 
+INFO:root:Epoch 173: Validating...
+INFO:root:[Valid] NMSE = -23.984 dB
+INFO:root:[Valid] Log likelihood = -4.396
+INFO:root:[Valid] Avg loss=6.1977
+INFO:root:Epoch=174, Average loss train=12.6842, 
+INFO:root:Epoch 174: Validating...
+INFO:root:[Valid] NMSE = -24.017 dB
+INFO:root:[Valid] Log likelihood = -4.405
+INFO:root:[Valid] Avg loss=6.2068
+INFO:root:Epoch=175, Average loss train=12.6801, 
+INFO:root:Epoch 175: Validating...
+INFO:root:[Valid] NMSE = -24.365 dB
+INFO:root:[Valid] Log likelihood = -4.282
+INFO:root:[Valid] Avg loss=6.2042
+INFO:root:Epoch=176, Average loss train=12.6825, 
+INFO:root:Epoch 176: Validating...
+INFO:root:[Valid] NMSE = -24.064 dB
+INFO:root:[Valid] Log likelihood = -4.362
+INFO:root:[Valid] Avg loss=6.1982
+INFO:root:Epoch=177, Average loss train=12.6831, 
+INFO:root:Epoch 177: Validating...
+INFO:root:[Valid] NMSE = -24.136 dB
+INFO:root:[Valid] Log likelihood = -4.326
+INFO:root:[Valid] Avg loss=6.2195
+INFO:root:Epoch=178, Average loss train=12.6802, 
+INFO:root:Epoch 178: Validating...
+INFO:root:[Valid] NMSE = -23.988 dB
+INFO:root:[Valid] Log likelihood = -4.371
+INFO:root:[Valid] Avg loss=6.2072
+INFO:root:Epoch=179, Average loss train=12.6759, 
+INFO:root:Epoch 179: Validating...
+INFO:root:[Valid] NMSE = -23.934 dB
+INFO:root:[Valid] Log likelihood = -4.400
+INFO:root:[Valid] Avg loss=6.1991
+INFO:root:Epoch=180, Average loss train=12.6786, 
+INFO:root:Epoch 180: Validating...
+INFO:root:[Valid] NMSE = -23.880 dB
+INFO:root:[Valid] Log likelihood = -4.435
+INFO:root:[Valid] Avg loss=6.2106
+INFO:root:Epoch=181, Average loss train=12.6833, 
+INFO:root:Epoch 181: Validating...
+INFO:root:[Valid] NMSE = -24.448 dB
+INFO:root:[Valid] Log likelihood = -4.244
+INFO:root:[Valid] Avg loss=6.2004
+INFO:root:New best loss: 12.3984, saving model...
+INFO:root:Epoch=182, Average loss train=12.6824, 
+INFO:root:Epoch 182: Validating...
+INFO:root:[Valid] NMSE = -23.935 dB
+INFO:root:[Valid] Log likelihood = -4.399
+INFO:root:[Valid] Avg loss=6.2221
+INFO:root:Epoch=183, Average loss train=12.6779, 
+INFO:root:Epoch 183: Validating...
+INFO:root:[Valid] NMSE = -24.272 dB
+INFO:root:[Valid] Log likelihood = -4.318
+INFO:root:[Valid] Avg loss=6.1996
+INFO:root:Epoch=184, Average loss train=12.6781, 
+INFO:root:Epoch 184: Validating...
+INFO:root:[Valid] NMSE = -24.365 dB
+INFO:root:[Valid] Log likelihood = -4.289
+INFO:root:[Valid] Avg loss=6.1992
+INFO:root:Epoch=185, Average loss train=12.6761, 
+INFO:root:Epoch 185: Validating...
+INFO:root:[Valid] NMSE = -24.132 dB
+INFO:root:[Valid] Log likelihood = -4.360
+INFO:root:[Valid] Avg loss=6.1988
+INFO:root:Epoch=186, Average loss train=12.6786, 
+INFO:root:Epoch 186: Validating...
+INFO:root:[Valid] NMSE = -24.041 dB
+INFO:root:[Valid] Log likelihood = -4.375
+INFO:root:[Valid] Avg loss=6.2056
+INFO:root:Epoch=187, Average loss train=12.6750, 
+INFO:root:Epoch 187: Validating...
+INFO:root:[Valid] NMSE = -23.950 dB
+INFO:root:[Valid] Log likelihood = -4.399
+INFO:root:[Valid] Avg loss=6.1961
+INFO:root:Epoch=188, Average loss train=12.6752, 
+INFO:root:Epoch 188: Validating...
+INFO:root:[Valid] NMSE = -24.074 dB
+INFO:root:[Valid] Log likelihood = -4.354
+INFO:root:[Valid] Avg loss=6.2105
+INFO:root:Epoch=189, Average loss train=12.6793, 
+INFO:root:Epoch 189: Validating...
+INFO:root:[Valid] NMSE = -24.113 dB
+INFO:root:[Valid] Log likelihood = -4.340
+INFO:root:[Valid] Avg loss=6.2046
+INFO:root:Epoch=190, Average loss train=12.6731, 
+INFO:root:Epoch 190: Validating...
+INFO:root:[Valid] NMSE = -23.965 dB
+INFO:root:[Valid] Log likelihood = -4.410
+INFO:root:[Valid] Avg loss=6.2046
+INFO:root:Epoch=191, Average loss train=12.6767, 
+INFO:root:Epoch 191: Validating...
+INFO:root:[Valid] NMSE = -23.815 dB
+INFO:root:[Valid] Log likelihood = -4.422
+INFO:root:[Valid] Avg loss=6.2075
+INFO:root:Epoch=192, Average loss train=12.6757, 
+INFO:root:Epoch 192: Validating...
+INFO:root:[Valid] NMSE = -24.103 dB
+INFO:root:[Valid] Log likelihood = -4.350
+INFO:root:[Valid] Avg loss=6.2189
+INFO:root:Epoch=193, Average loss train=12.6745, 
+INFO:root:Epoch 193: Validating...
+INFO:root:[Valid] NMSE = -24.260 dB
+INFO:root:[Valid] Log likelihood = -4.300
+INFO:root:[Valid] Avg loss=6.1986
+INFO:root:Epoch=194, Average loss train=12.6766, 
+INFO:root:Epoch 194: Validating...
+INFO:root:[Valid] NMSE = -24.364 dB
+INFO:root:[Valid] Log likelihood = -4.288
+INFO:root:[Valid] Avg loss=6.1960
+INFO:root:Epoch=195, Average loss train=12.6817, 
+INFO:root:Epoch 195: Validating...
+INFO:root:[Valid] NMSE = -23.991 dB
+INFO:root:[Valid] Log likelihood = -4.371
+INFO:root:[Valid] Avg loss=6.2055
+INFO:root:Epoch=196, Average loss train=12.6788, 
+INFO:root:Epoch 196: Validating...
+INFO:root:[Valid] NMSE = -24.211 dB
+INFO:root:[Valid] Log likelihood = -4.313
+INFO:root:[Valid] Avg loss=6.2130
+INFO:root:Epoch=197, Average loss train=12.6729, 
+INFO:root:Epoch 197: Validating...
+INFO:root:[Valid] NMSE = -24.278 dB
+INFO:root:[Valid] Log likelihood = -4.306
+INFO:root:[Valid] Avg loss=6.2069
+INFO:root:Epoch=198, Average loss train=12.6750, 
+INFO:root:Epoch 198: Validating...
+INFO:root:[Valid] NMSE = -24.307 dB
+INFO:root:[Valid] Log likelihood = -4.285
+INFO:root:[Valid] Avg loss=6.1996
+INFO:root:Epoch=199, Average loss train=12.6695, 
+INFO:root:Epoch 199: Validating...
+INFO:root:[Valid] NMSE = -24.044 dB
+INFO:root:[Valid] Log likelihood = -4.357
+INFO:root:[Valid] Avg loss=6.2134
+INFO:root:Epoch=200, Average loss train=12.6744, 
+INFO:root:Epoch 200: Validating...
+INFO:root:[Valid] NMSE = -24.025 dB
+INFO:root:[Valid] Log likelihood = -4.377
+INFO:root:[Valid] Avg loss=6.2146
+INFO:root:Epoch 200: Testing...
+INFO:root:[Test] NMSE = -24.462 dB
+INFO:root:[Test] Log likelihood = -4.229
+INFO:root:[Test] Avg loss=6.1973
