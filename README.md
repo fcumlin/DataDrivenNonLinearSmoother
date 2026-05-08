@@ -113,15 +113,16 @@ class NewSystem(BaseDynamicalDataset):
 
 If you use this code in your research, please cite:
 ```bibtex
-@inproceedings{cumlin2026dns,
-  author = {Cumlin, Fredrik and Ghosh, Anubhab and Chatterjee, Saikat},
-  title = {{DNS}: Data-Driven Nonlinear Smoother for Complex Model-Free Process},
-  booktitle = {ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  year = {2026},
-  pages = {TBD},
-  organization = {IEEE},
-  address = {TBD},
-  doi = {TBD}
+@INPROCEEDINGS{cumlin2026dns,
+  author={Cumlin, Fredrik and Ghosh, Anubhab and Chatterjee, Saikat},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={DNS: Data-Driven Nonlinear Smoother for Complex Model-Free Process}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={356-360},
+  keywords={Filtering;Filters;Particle filters;Kalman filters;Filtering theory;Circuits and systems;Protocols;HTTP;SIMO;Artificial intelligence;Bayesian state estimation;unsupervised learning;recurrent neural networks},
+  doi={10.1109/ICASSP55912.2026.11462991}
 }
 ```
 
